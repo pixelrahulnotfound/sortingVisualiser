@@ -27,6 +27,9 @@ A sorting visualizer written in C using raylib.
 - `5` → Merge Sort
 - `R` → Generate New Array
 
+## todo
+- add speed control
+  
 ## Build
 
 Requirements:
