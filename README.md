@@ -2,11 +2,12 @@
 
 A sorting visualizer written in C using raylib.
 
+
 ## Features
 
 - Real-time visualization of sorting algorithms
 - Multiple sorting algorithms
-- Random array generation
+- Random array generation(the value of no. of elements in the array is hardcoded for now to 300.it can be changed by changing COUNT)
 - Keyboard controls for switching algorithms
 
 ## Algorithms Implemented
